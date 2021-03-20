@@ -1,0 +1,7 @@
+main.c: In function ‘main’:
+main.c:14:8: error: expected ‘{’ before ‘[’ token
+  struct[10]
+        ^
+main.c:18:9: warning: missing terminating ' character
+  printf('fitbit plus,ipods,mi band,cult pass,macbookpro,digital camera,alexa,sandwich toaster,microwave oven,scale);
+ 
