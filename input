@@ -1,17 +1,13 @@
-Number of employees: 4
+#include <stdio.h>
+#include <conio.h>
 
-Goodies and Prices:
-
-Fitbit Plus: 7980
-IPods: 22349
-MI Band: 999
-Cult Pass: 2799
-Macbook Pro: 229900
-Digital Camera: 11101
-Alexa: 9999
-Sandwich Toaster: 2195
-Microwave Oven: 9800
-Scale: 4999
-
-
-
+int main()
+{
+ struct[10]
+ 
+ printf(/n no of employees);
+ 
+ printf('fitbit plus,ipods,mi band,cult pass,macbookpro,digital camera,alexa,sandwich toaster,microwave oven,scale);
+scanf(%d,/n,7980,22349,999,2799,229900,11101,9999,2195,9800,4999);
+getch();
+}
